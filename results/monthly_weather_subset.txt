@@ -1,0 +1,13 @@
+station	month	monthly_max
+Rowson Lake	07	28
+Rowson Lake	08	28
+Rowson Lake	05	24
+Rowson Lake	06	24
+Rowson Lake	09	23.5
+Rowson Lake	04	15.5
+Rowson Lake	10	12
+Rowson Lake	12	5
+Rowson Lake	03	3
+Rowson Lake	11	1.5
+Rowson Lake	01	-1.5
+Rowson Lake	02	-2
